@@ -1,0 +1,13 @@
+# PLE dev dataset: gated, redistribution forbidden
+data/
+# Official repo clones
+vendor/
+# Eval runs / caches / secrets
+runs/
+.venv/
+__pycache__/
+*.pyc
+.env
+*.env
+local.env
+.DS_Store
